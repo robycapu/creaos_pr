@@ -1,3 +1,7 @@
+@font-face {
+  font-family: Acrom;
+  src: url(documenti/Github/creaos_pr/font/Acrom-Regular.ttf);
+}
 body {
     background-color: DarkOrchid;
     margin: 0;
