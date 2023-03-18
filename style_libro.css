@@ -6,8 +6,7 @@ body {
     background-color: DarkOrchid;
     margin: 0;
     padding: 0;
-    font-family: Acrom, Montserrat, Arial, Helvetica, sans-serif;
-    font-weight: normal;
+    font-family: Acrom;
 	font-size: 10pt;
 }
 
@@ -28,7 +27,7 @@ body {
 
 #titolo {
     color: Chartreuse;
-    font-family: Acrom, Montserrat, Arial, Helvetica, sans-serif;
+    font-family: Acrom;
     font-weight: bold;
     font-size: 20pt;
     margin-bottom: 0px;
